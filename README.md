@@ -25,7 +25,7 @@ MVC, SOLID Principles, Layered Architecture, Repository Pattern
 
 ---
 
-### 🛠️ What I'm Working On
+### 🌱 What I'm Currently Working On
 
 - Building production-ready, full-stack web apps using React + Node.js
 - Exploring advanced patterns in state management and scalable backend architecture
@@ -33,21 +33,34 @@ MVC, SOLID Principles, Layered Architecture, Repository Pattern
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
-![Senin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senincsimon&show_icons=true&theme=github_dark&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=senincsimon&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senincsimon&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senincsimon&theme=github_dark" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=senincsimon&show_icons=true&theme=github_dark&hide_border=true" alt="Senin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senincsimon&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 📬 Connect With Me
+### 📫 Let's Connect
 
-- ✉️ Email: seninsimon002@@gmail.com  
+- ✉️ Email: [seninsimon002@gmail.com](mailto:seninsimon002@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/senin-simon-3193352b0/)  
 
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

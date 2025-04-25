@@ -36,7 +36,7 @@ MVC, SOLID Principles, Layered Architecture, Repository Pattern
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seninsimon&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  GitHub Streak
 </p>
 
 <p align="center">

@@ -1,51 +1,53 @@
-<h1 align="center">Hi 👋, I'm Senin C Simon</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# Hi there 👋, I'm Senin C Simon
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🎯 **MERN Stack Developer | Full-Stack Enthusiast | Passionate Problem Solver**
 
-- 🔭 I’m currently working on **a Chat App using Socket.IO**
-
-- 🌱 I’m currently learning **TypeScript, PostgreSQL, and Ethical Hacking**
-
-- 👯 I’m looking to collaborate on **Open Source Projects and Startups**
-
-- 🤝 I’m open to internship/full-time opportunities
-
-- 💬 Ask me about **MERN Stack, Node.js, MongoDB, Express, React, Tailwind, and REST APIs**
-
-- 📫 How to reach me: **senin@gmail.com**
-
-- ⚡ Fun fact: *I love building side-projects and exploring the world of cybersecurity*
+I'm a dynamic and detail-oriented software developer with hands-on experience in building scalable, high-performance web applications using the MERN stack. I take pride in writing clean, efficient code and creating seamless user experiences. My approach blends creativity with technical precision to craft robust solutions.
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-</p>
+### 🚀 Tech Stack & Skills
+
+**Languages & Databases:**  
+JavaScript, TypeScript, C, SQL (PostgreSQL), MongoDB
+
+**Frontend:**  
+React.js, Redux, Context API, React Query, Tailwind CSS, Bootstrap, ShadCN, Chakra UI, Zustand
+
+**Backend:**  
+Node.js, Express.js, REST APIs, OAuth, JWT, Socket.io
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, AWS, CI/CD, AWS EC2, Nginx, Cloudinary, Web Hosting, Figma
+
+**Architecture & Principles:**  
+MVC, SOLID Principles, Layered Architecture, Repository Pattern
+
+---
+
+### 🛠️ What I'm Working On
+
+- Building production-ready, full-stack web apps using React + Node.js
+- Exploring advanced patterns in state management and scalable backend architecture
+- Hosting and deploying apps with Nginx, AWS EC2, and Docker (soon!)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Senin's GitHub stats](https://github-readme-stats.vercel.app/api?username=senincsimons&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senincsimons&layout=compact)
+![Senin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senincsimon&show_icons=true&theme=github_dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senincsimon&layout=compact&theme=github_dark)
 
 ---
 
-### ✍️ Blog & Articles
-> *(Optional – if you write blogs)*
-- [Medium Blog](https://your-medium-link.com)
+### 📬 Connect With Me
+
+- ✉️ Email: seninsimon002@@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/senin-simon-3193352b0/)  
+
 
 ---
 
-### 📫 Let's Connect:
-<p>
-  <a href="https://linkedin.com/in/yourprofile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:senin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-</p>
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+

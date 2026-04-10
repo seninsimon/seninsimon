@@ -55,19 +55,6 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
   alt="GitHub Streak"
 />
 
-<br/>
-
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seninsimon&show_icons=true&theme=github_dark&hide_border=true&icon_color=2E9EFF&title_color=2E9EFF" 
-  alt="GitHub Stats"
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seninsimon&layout=compact&theme=github_dark&hide_border=true&title_color=2E9EFF" 
-  alt="Top Languages"
-/>
 
 </div>
 

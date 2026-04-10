@@ -101,28 +101,25 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
 
 ## 🎯 Current Focus
 
+## 🎯 Current Focus
+
+```mermaid
 mindmap
   root((Current Focus))
     Building Production Apps
-      React + Node.js
-      TypeScript
-      Mantine UI
-      Tailwind CSS
+      Frontend
+        React + Node.js
+        TypeScript
+      Backend
+        .NET
+        C#
+        Go
     Advanced Patterns
       State Management
       TanStack Query
-      Microservices
     DevOps
       Docker
       AWS
-      Nginx
-      CI/CD
     Architecture
       Clean Architecture
       Repository Pattern
-      CQRS
-    Backend Expansion
-      .NET / C#
-      Go (Golang)
-      NestJS
-      Django

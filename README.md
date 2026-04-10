@@ -101,8 +101,6 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
 
 ## 🎯 Current Focus
 
-## 🎯 Current Focus
-
 ```mermaid
 %%{init: {'theme': 'default'}}%%
 mindmap

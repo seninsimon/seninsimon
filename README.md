@@ -70,8 +70,14 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=seninsimon&theme=onedark&no-frame=true&margin-w=10)
----
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+
+<img 
+  src="https://github-profile-trophy.screw-hand.vercel.app/?username=seninsimon&theme=onedark&no-frame=true&margin-w=15&margin-h=15" 
+  alt="GitHub Trophies"
+/>
+
+</div>
 
 ## 📊 Contribution Summary
 

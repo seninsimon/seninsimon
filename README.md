@@ -1,135 +1,148 @@
-<!-- Header with animated typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Senin+C+Simon;MERN+Stack+Developer;Full-Stack+Architect;Docker+%7C+NestJS+%7C+Django+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Senin+C+Simon;MERN+Stack+Developer;Full-Stack+Enthusiast;Problem+Solver;Building+Scalable+Apps" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="120" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seninsimon&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/senin-simon-3193352b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seninsimon002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=seninsimon&style=for-the-badge&color=2E9EFF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/seninsimon?style=for-the-badge&logo=github&color=2E9EFF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/seninsimon?style=for-the-badge&logo=github&color=2E9EFF" alt="GitHub Stars" />
 </p>
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Summary
 
-> *Dynamic and detail-oriented software developer with hands-on experience building scalable, high-performance web applications. I take pride in writing clean, efficient code and creating seamless user experiences.*
-
-- 🔭 Currently building **production-grade microservices** with Docker orchestration
-- 🌱 Expanding into **Go** (Golang) & **.NET Core** for high-performance backend systems
-- 🐳 **Docker proficient** – multi-container apps, docker-compose, CI/CD pipelines
-- 💬 Ask me about MERN stack, NestJS, Django, or system design
-- ⚡ Fun fact: I believe code is like humor – when you have to explain it, it's bad 😄
+Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience building scalable, high-performance web applications. I write clean, efficient code and create seamless user experiences — blending creativity with technical precision to craft robust, production-ready solutions.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Core Competencies
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,go,dotnet" />
-</p>
+### Languages & Databases
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,figma" />
-  <br/>
-  <code>Context API</code> <code>React Query</code> <code>Zustand</code> <code>ShadCN</code> <code>Chakra UI</code>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![Mantine Table](https://img.shields.io/badge/Mantine_Table-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,python" />
-  <br/>
-  <code>REST APIs</code> <code>GraphQL</code> <code>Socket.io</code> <code>JWT</code> <code>OAuth</code>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Databases & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,aws,nginx,githubactions" />
-  <br/>
-  <code>MongoDB</code> <code>PostgreSQL</code> <code>Docker</code> <code>AWS EC2</code> <code>Cloudinary</code> <code>CI/CD</code>
-</p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Architecture & Principles
-<p align="left">
-  <code>🏗️ MVC Pattern</code> <code>📐 SOLID Principles</code> <code>🗂️ Layered Architecture</code> <code>📦 Repository Pattern</code>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seninsimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninsimon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seninsimon&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF9E5E" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seninsimon&theme=tokyonight" alt="Profile Summary" />
-</p>
+### Architecture
+![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=architect&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=clean&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-000000?style=for-the-badge&logo=layers&logoColor=white)
 
 ---
 
-## 🏆 What I'm Currently Working On
+## 📊 GitHub Performance Metrics
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">⚡ Recent Projects</h3>
-      <ul>
-        <li>🔹 <strong>Enterprise MERN + NestJS Microservices</strong> – Dockerized, deployed on AWS EC2 with Nginx</li>
-        <li>🔹 <strong>Real-time Dashboard</strong> – Socket.io + React Query + MongoDB aggregation</li>
-        <li>🔹 <strong>Django REST Framework API</strong> – JWT auth, PostgreSQL, Redis caching</li>
-        <li>🔹 <strong>Go Microservice (exploring)</strong> – High-performance REST API with Gin framework</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">📚 Learning Path</h3>
-      <ul>
-        <li>🔸 <strong>Golang</strong> – Concurrency, goroutines, high-performance backends</li>
-        <li>🔸 <strong>.NET Core</strong> – Minimal APIs, Entity Framework, enterprise patterns</li>
-        <li>🔸 <strong>Kubernetes</strong> – Orchestration for containerized apps</li>
-        <li>🔸 <strong>GraphQL Federation</strong> – Apollo Federation with NestJS</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seninsimon&theme=dark&hide_border=true&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF" alt="GitHub Streak" />
+</div>
 
----
+<br/>
 
-## 📫 Connect With Me
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seninsimon&theme=github_dark" alt="Profile Summary" width="90%" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/senin-simon-3193352b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seninsimon002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/seninsimon">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seninsimon&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=2E9EFF&line=2E9EFF&point=FFFFFF" alt="Contribution Graph" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=seninsimon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=2E9EFF&title_color=2E9EFF" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninsimon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2E9EFF" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seninsimon/seninsimon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seninsimon&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seninsimon&theme=github_dark" alt="Repos Per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seninsimon&theme=github_dark" alt="Most Commit Language" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seninsimon&theme=github_dark&utcOffset=8" alt="Productive Time" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seninsimon&theme=github_dark" alt="Stats Summary" width="45%" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Current Focus))
+    Building Production Apps
+      React + Node.js
+      TypeScript
+      Mantine UI
+    Advanced Patterns
+      State Management
+      TanStack Query
+      Microservices
+    DevOps
+      Docker Containers
+      AWS EC2
+      Nginx Reverse Proxy
+    Architecture
+      Clean Architecture
+      Repository Pattern
+      CQRS

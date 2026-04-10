@@ -50,15 +50,24 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seninsimon&theme=dark&hide_border=true&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF"/>
+<img 
+  src="https://streak-stats.demolab.com?user=seninsimon&theme=github-dark&hide_border=true&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF" 
+  alt="GitHub Streak"
+/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=seninsimon&show_icons=true&theme=github_dark&hide_border=true&icon_color=2E9EFF&title_color=2E9EFF"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=seninsimon&show_icons=true&theme=github_dark&hide_border=true&icon_color=2E9EFF&title_color=2E9EFF&cache_seconds=1800" 
+  alt="GitHub Stats"
+/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninsimon&layout=compact&theme=github_dark&hide_border=true&title_color=2E9EFF"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninsimon&layout=compact&theme=github_dark&hide_border=true&title_color=2E9EFF&cache_seconds=1800" 
+  alt="Top Languages"
+/>
 
 </div>
 

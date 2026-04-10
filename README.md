@@ -75,9 +75,13 @@ Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience bu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=seninsimon&theme=darkhub&no-frame=true&row=2&column=4"/>
-</div>
 
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=seninsimon&theme=darkhub&no-frame=true&row=2&column=4" 
+  alt="GitHub Trophies"
+/>
+
+</div>
 ---
 
 ## 📊 Contribution Summary

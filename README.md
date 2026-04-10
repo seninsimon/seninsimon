@@ -14,13 +14,13 @@
 
 ---
 
-## 🎯 Professional Summary
+##  Professional Summary
 
 Dynamic and detail-oriented **MERN Stack Developer** with hands-on experience building scalable, high-performance web applications. Focused on clean code, performance, and seamless user experience.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages & Databases
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
